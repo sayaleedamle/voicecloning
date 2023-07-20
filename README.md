@@ -7,8 +7,15 @@ This file will tell what I have tried to implement:
 3. use this audio to convert to human speech using TTS.
 
    This is a different approach but needs some more time to work on, as it is not functioning. Here, pretrained models are of good use.
+
+   
 Install:
 1.https://github.com/coqui-ai/TTS
 2. gtts
 3. pyttsx3
 4. SpeechRecognition
+
+
+Problems faced:
+1. audio does't get stored as is
+2. tts has an advanced way of accessing the audios of different voices.
